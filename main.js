@@ -5,7 +5,7 @@ app.use(async (ctx) => {
   ctx.body = `
 Hello World
 Hello Koa
-v0.0.0
+v0.0.1
 `;
 });
 
